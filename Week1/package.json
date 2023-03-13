@@ -5,7 +5,7 @@
   "name": "week_1",
   "version": "1.0.0",
   "description": "Week 1 workshop",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "\"note test\""
   },
